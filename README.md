@@ -1,4 +1,4 @@
-angularblog
+angularapp
 ===========
 
 Angular beginner app, FMAT 2014
